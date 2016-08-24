@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.4441391
+  lightness: 0.1145391
+  brandStrength: 0.5519572
+  brandColors:
+    - '#F3FFFF'
+    - '#19242A'
+    - '#C5D0D2'
+    - '#6D9743'
+    - '#726B51'
+  rhythmicContrast: 0.5911524
+typography_spectrum: 0.07446808
+name: Gig W
